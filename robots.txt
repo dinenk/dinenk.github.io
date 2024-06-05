@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dinenk.github.io/sitemap/sitemap.txt
